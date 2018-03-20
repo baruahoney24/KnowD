@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_doctor_sign_up"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.mycodestack.knowd.DoctorSignUp"
+    android:background="@android:color/background_light">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:text="KnowD"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:id="@+id/knowd"
+            android:textColor="#144aed"
+            android:textSize="44sp"
+            android:gravity="center" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/HospitalName"
+            android:hint="Hospital Name"
+            android:textColorHint="#1976d2"
+            android:textColor="#1976d2"
+            android:layout_marginTop="60dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/DoctorName"
+            android:hint="Doctor Name"
+            android:textColorHint="#1976d2"
+            android:textColor="#1976d2"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:inputType="phone"
+            android:ems="10"
+            android:id="@+id/ContactNumber"
+            android:hint="Contact No."
+            android:textColorHint="#1976d2"
+            android:textColor="#1976d2"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/City"
+            android:textColorHint="#1976d2"
+            android:textColor="#1976d2"
+            android:hint="City" />
+
+        <Button
+            android:text="Submit"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/DoctorSubmitButton"
+            android:layout_marginTop="60dp"
+            android:onClick="AddDoctorToDatabase"
+            android:background="@drawable/button_background" />
+    </LinearLayout>
+</RelativeLayout>

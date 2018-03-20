@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "868412746714",
+    "firebase_url": "https://knowd-e872e.firebaseio.com",
+    "project_id": "knowd-e872e",
+    "storage_bucket": "knowd-e872e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868412746714:android:a8b46d5b22dfa528",
+        "android_client_info": {
+          "package_name": "com.mycodestack.knowd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868412746714-r5gp1dscvies2pnfountiso24d4astfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANMtnf6xE9P5dqCnChhM97wRjf5EQCgIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

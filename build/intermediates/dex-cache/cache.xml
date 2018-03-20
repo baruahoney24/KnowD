@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.0_dd30c86f454d86989f51fa3146b0f075c49884a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_7b31d1a15981e35908d930a63faab26f994a809f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-11.8.0_ac3212b38f6f3344d2d93e8baf3f37a333363e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-11.8.0_63a690b9acb6ae483d682beffe2ad130ec48d3af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6756c6edbb29fdb56669b7d4885ceb1b79c42b88">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97f062c3f510e868c8bfba6474870248cc390c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21009717c5b78cb07c218ac41a2345f5e14bd044">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef73d318dad7487894addfb724b0990f0d6bb741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_2b64e96a84ff8797e7419e8e6d55895fea851a15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-11.8.0_e2c06b0850feb57f754baaa311b322410b6d4f34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-11.8.0_ced5ad98510ee163f488e2796f4d96d2df1b42df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_3c29a526065e8d431f015cdc55fdf8ef408a8acb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-11.8.0_e4c5dc8f2c9ca2b142273dd12239ccc78404150d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_e516e5ceda508c8ffa18112e977ff31914d5b33f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_ea2b4aa1cd8522e7dd702d4c0e24acd5fd8712c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_291ea143d23b6c31a030ba64a45f06fb7a91f93a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_1484d61f31a5318f7f0bebb0751848361b281478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ec91859d501eb1a2d3a6163e7f99f2800904a8eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_dd8cf6b2874af49801495384961dd7e8929d7231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-11.8.0_3d09c854743cfd28d605d7e51f0c8e6e1689221a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_b2c3ce6a29c2784aff68bcf4b39f879da031c886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-11.8.0_c224d6b53427550955ae6565abb4c5ba5bfa0a5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.0_010ff37f5bf67cc07fa0f90dd015536751d8d014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-11.8.0_be772d10ba966bf0c62df034ed40ebc229a49040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lakshay/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.2.0/4a5a82a027706397fff621b22fd6fa796e91d7c5/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/lakshay/Documents/android-basic-samples-master/KnowD/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_1ece82e299735cc71f06ae2d310b362928b0a824/classes.dex" />
+    </item>
+
+</items>
